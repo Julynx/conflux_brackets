@@ -2,8 +2,6 @@
 
 Conflux syntax theme for Brackets.
 
-![alt text](Brackets_Conflux.png)
-
 DESCRIPTION
 
 A dark theme with pastel colors inspired by natural elements made for comfortable midnight coding sessions. 
