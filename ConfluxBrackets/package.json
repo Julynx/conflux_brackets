@@ -1,0 +1,16 @@
+{
+    "title": "Conflux",
+    "name": "conflux",
+    "description": "A natural & gedit compatible color palette based on color symmetry and mathematical proportions. The main 8 colors are equally distributed among the hue wheel and combine perfectly for comfortable and creative coding sessions.",
+    "version": "0.9",
+    "author": "Julynx (https://github.com/Julynx)",
+    "homepage": "https://github.com/Julynx",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "conflux.css",
+        "dark": true
+    }
+}
