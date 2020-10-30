@@ -1,0 +1,98 @@
+span.cm-attribute	{ color: #43cccc; }
+span.cm-builtin     { color: #43cccc; }
+span.cm-def			{ color: #43cccc; }
+span.cm-header      { color: #43cccc; }
+span.cm-qualifier	{ color: #43cccc; }
+span.cm-variable	{ color: #ffffff; }
+
+span.cm-atom		{ color: #88cc43; }
+span.cm-link		{ color: #88cc43; }
+span.cm-string		{ color: #88cc43; }
+span.cm-string-2    { color: #88cc43; }
+
+span.cm-meta		{ color: #4365cc; }
+span.cm-property	{ color: #4365cc; }
+span.cm-tag			{ color: #4365cc; }
+
+span.cm-variable-2	{ color: #cc43aa; }
+span.cm-variable-3	{ color: #cc43aa; }
+
+span.cm-comment		{ color: #43cc65; }
+span.cm-error		{ color: #cc4343; }
+span.cm-keyword		{ color: #cc43aa; }
+span.cm-operator	{ color: #ffffff; }
+
+span.cm-number		{ color: #ccaa43; }
+
+span.cm-bracket		{ color: #4365cc; }
+
+
+
+
+.CodeMirror {
+    line-height: 1.4;
+}
+
+.CodeMirror-scroll {
+	background: #2c2c2c;
+	color: #d9d9d9;
+}
+
+.CodeMirror-cursor {
+	border-left: 2px solid #43cccc !important;
+}
+
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-bottom: 1px solid #43cccc !important;
+    border-left: none !important;
+}
+
+.CodeMirror-gutters {
+	background: #2c2c2c;
+	border-right: 1px solid #262626;
+}
+
+.CodeMirror-linenumber {
+	color: #454545;
+}
+
+.CodeMirror-selected {
+	background: #4365cc !important;
+}
+
+.CodeMirror-matchingbracket {
+    background: transparent !important;
+	border-bottom: 3px solid #cc43aa !important;
+    color: #fff !important;
+}
+
+.CodeMirror-matchingtag {
+    background: transparent !important;
+	border-bottom: 2px solid #cc43aa !important;
+}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-nonmatchingbracket {
+	color: #cc43aa !important;
+}
+
+.CodeMirror-activeline-background {
+	background: #3b3b3b !important;
+}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+	color: #fff;
+    background-color: #2c2c2c;
+}
+
+.CodeMirror-focused .CodeMirror-activeline .inline-widget .CodeMirror-gutter-elt {
+	color: #fff;
+}
+
+#image-holder,
+#not-editor {
+    background-color: #2c2c2c;
+}
+
+#image-holder {
+    color: #d9d9d9;
+}
